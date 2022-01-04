@@ -1,5 +1,4 @@
-# Quesay
-Demo Application
+# Home Page Design and Implementation
 
 This project was created with the MVP architectural structure based on the submitted designs. Use XCode version 12.5.1 and Swift version 5.4.2 to run the application.
 
